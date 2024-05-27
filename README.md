@@ -4,7 +4,7 @@ This MATLAB script simulates the motion of a lizard using a simple graphical rep
 ## Usage
 
 1. **Prerequisites**: Make sure you have MATLAB installed on your system.
-2. **Running the Script**: Open the provided MATLAB script file (`lizard_motion_simulator.m`) in MATLAB.
+2. **Running the Script**: Open the provided MATLAB script file (`Lizard_Simulator.m`) in MATLAB.
 3. **Executing the Simulation**: Run the script. You will see a graphical window displaying the lizard and its motion.
 4. **Controlling the Lizard**:
    - Use the arrow keys to move the lizard in different directions.
